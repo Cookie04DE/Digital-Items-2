@@ -50,7 +50,7 @@ lua\> id = digitizer.digitize()
 lua\> id
 "<32 random characters>"
 lua\> _
-](readme_images/lua.png)
+](readme_images/lua.png "Lua interacting with the digitizer")
 
 Use `digitizer = peripheral.find("digitizer")` to find the peripheral and bind to the `digitizer` variable.
 The following methods are available to call on the `digitizer` peripheral:
